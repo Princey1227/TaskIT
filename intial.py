@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
@@ -105,3 +106,6 @@ list_update()
 guiWindow.mainloop()
 the_connection.commit()
 the_cursor.close()
+=======
+print("hello world")
+>>>>>>> 2f957831ed9dc061e5f6faed9a3c6857fce95f73
