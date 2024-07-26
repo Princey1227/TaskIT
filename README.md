@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TaskIT: An Automated To-Do List Using Python
 
 Overview
@@ -43,3 +44,7 @@ TaskIT is released under the MIT License.
 Author
 
 [Prince Yadav]
+=======
+# TaskIT
+an automated to do list using python library PyQt5
+>>>>>>> 3937547cccbea6d5105aa725e1b05b2988dedd6f
