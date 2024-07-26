@@ -43,5 +43,3 @@ TaskIT is released under the MIT License.
 Author
 
 [Prince Yadav]
-
-I hope this helps! Let me know if you need any further assistance.
